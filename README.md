@@ -93,6 +93,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AVIDML](https://avidml.org/taxonomy/)
 * [MIT AI Risk Repository](https://airisk.mit.edu/)
 * [AI Incident Database](https://incidentdatabase.ai/)
+* [HOL Reviewed AI-Agent Threat Campaigns](https://hol.org/guard/security/campaigns) - _Source-verified library of public AI-agent and developer-tool security campaigns. Each published entry passes editorial/security review and links to the original reporting._
 * [ISO/IEC 22989:2022 Information technology — Artificial intelligence — Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html)
 * [NIST AI Glossary](https://airc.nist.gov/glossary/)
 * [The Arcanum Prompt Injection Taxonomy](https://arcanum-sec.github.io/arc_pi_taxonomy) - _Comprehensive prompt injection attack classification system covering attack intents, techniques, evasions, and input vectors. Categorizes goals, methods, obfuscation techniques, and attack surfaces for prompt injection attacks._
@@ -199,7 +200,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [AIRTBench](https://github.com/dreadnode/AIRTBench-Code) - _Code Repository for: AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models_
 * [HackingBuddyGPT benchmark dataset](https://github.com/ipa-lab/hacking-benchmark) - _Benchmark dataset for automated pentesting_
 * [AgentDoG](https://github.com/AI45Lab/AgentDoG) - _AgentDoG is a risk-aware evaluation and guarding framework for autonomous agents. It focuses on trajectory-level risk assessment, aiming to determine whether an agent's execution trajectory contains safety risks under diverse application scenarios._
-* [AICGSecEval](https://github.com/Tencent/AICGSecEval) - _Tencent's comprehensive evaluation benchmark for AI code generation security, covering 10 CWE categories with automated test harness_
+* [AICGSecEval](https://github.com/Tencent/AICGSecEval) - _Tencent's comprehensive evaluation benchmark for AI code generation security capabilities, covering 10 CWE categories with automated test harness_
 * [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai) - _Framework for large language model evaluations by the UK AI Security Institute. 200+ pre-built evaluations covering prompt engineering, tool usage, multi-turn dialog, and model-graded scoring._
 * [sec-code-bench](https://github.com/alibaba/sec-code-bench) - _Alibaba's benchmark for evaluating LLM code security capabilities across 17 vulnerability categories and 4 programming languages_
 
